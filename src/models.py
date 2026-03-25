@@ -1,4 +1,4 @@
-"""Elo state machine and team DNA / tiers (matches original Assignment2 notebook)."""
+"""Elo state machine and team DNA / tiers"""
 
 from __future__ import annotations
 
