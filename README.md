@@ -12,7 +12,7 @@ src/
   models.py               # Elo init/update, Static_DNA, tier splits (same logic as original notebook)
   simulation.py           # get_elo_series_prob, simulate_monte_carlo_series
 notebooks/
-  research_final.ipynb    # Clean version of the analysis (mirrors Assignment2 flow)
+  research_final.ipynb    # Clean version of the analysis
 requirements.txt
 README.md
 ```
