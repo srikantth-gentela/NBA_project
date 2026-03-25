@@ -1,4 +1,4 @@
-"""Elo series probability and Monte Carlo series simulator (same formulas as original notebook)."""
+"""Elo series probability and Monte Carlo series simulator"""
 
 from __future__ import annotations
 
